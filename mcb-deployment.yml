@@ -1,3 +1,7 @@
+apiVersion: v2
+name: minecraft-bedrock
+description: Minecraft Bedrock server
+
 # Default values for minecraft-bedrock.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
